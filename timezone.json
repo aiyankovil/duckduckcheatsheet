@@ -4,17 +4,26 @@
     "description": "Currency Cheatsheet",
     "metadata": {
         "sourceName": "Wikipedia",
-        "sourceUrl": "https://en.wikipedia.org/wiki/List_of_countries_and_capitals_with_currency_and_language"
+        "sourceUrl": "https://en.wikipedia.org/wiki/Time_zone"
     },
     "template_type": "reference",
     "section_order": [
-        "Africa",
-        "Asia",
-        "Europe",
-        "North America",
-        "South America",
-        "Antartica",
-        "Oceania"
+        "-12:00",
+        "-11:00",
+        "-10:00",
+        "-09:30",
+        "-09:00",
+        "-08:00",
+        "-07:00",
+        "-06:00",
+        "-05:00",
+        "-04:00",
+        "-03:30",
+        "-03:00",
+        "-02:00",
+        "-01:00",
+        "+00:00",
+
         ],
     "sections": {
     "Africa":[{
