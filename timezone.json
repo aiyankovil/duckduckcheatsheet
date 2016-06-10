@@ -1,7 +1,7 @@
  {
-    "id": "currency_cheat_sheet",
-    "name": "Currencies",
-    "description": "Currency Cheatsheet",
+    "id": "timezone_cheat_sheet",
+    "name": "Timezone",
+    "description": "Timezone Cheatsheet",
     "metadata": {
         "sourceName": "Wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Time_zone"
