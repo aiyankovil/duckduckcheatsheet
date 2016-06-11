@@ -18,47 +18,14 @@
         ],
     "sections": {
     "At the start":[{
-           "key":"Algeria",
-           "val":"Dinar"
+           "key":"live",
+           "val":"match has started"
           },{
-           "key":"Angola",
-           "val":"Kwanza"
+           "key":"GL",
+           "val":"Good Luck"
           },{
-            "key":"Botswana",
-           "val":"Pula"
-          },{
-           "key":"Cameroon",
-           "val":"CFA franc"
-          },{
-            "key":"Egypt",
-           "val":"Egyptian pound"
-          },{
-            "key":"Ethiopia",
-            "val":"Birr "
-          },{
-            "key":"Ghana",
-            "val":"Ghana cedi"
-          },{
-            "key":"Kenya",
-            "val":"Kenyan shilling"
-          },{
-            "key":"Libya",
-            "val":"Dinar"
-          },{
-            "key":"Mali",
-            "val":"CFA franc"
-          },{
-            "key":"Nigeria",
-            "val":"Naira"
-          },{
-            "key":"South Africa",
-            "val":"South African rand"
-          },{
-            "key":"Sudan",
-            "val":"Sudanese pound"
-          },{
-            "key":"Uganda",
-            "val":"Ugandan shilling"
+            "key":"HF",
+           "val":"Have Fun"
           } ],
         "In-game": [{
             "key":"Afghanistan",
