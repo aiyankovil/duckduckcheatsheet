@@ -1,23 +1,23 @@
 {
-    "id": "currency_cheat_sheet",
-    "name": "Currencies",
-    "description": "Currency Cheatsheet",
+    "id": "csgo_abbreviations_cheat_sheet",
+    "name": "CS-GO Abbreviations",
+    "description": "CS-GO Abbreviations Cheatsheet",
     "metadata": {
-        "sourceName": "Wikipedia",
-        "sourceUrl": "https://en.wikipedia.org/wiki/List_of_countries_and_capitals_with_currency_and_language"
+        "sourceName": "steamcommunity",
+        "sourceUrl": "http://steamcommunity.com/sharedfiles/filedetails/?id=499441498"
     },
     "template_type": "reference",
     "section_order": [
-        "Africa",
-        "Asia",
-        "Europe",
-        "North America",
-        "South America",
-        "Antartica",
-        "Oceania"
+        "At the start",
+        "In-game",
+        "End game",
+        "Roles / Posts",
+        "Cheats / VAC",
+        "Nades",
+        "How to blame each other"
         ],
     "sections": {
-    "Africa":[{
+    "At the start":[{
            "key":"Algeria",
            "val":"Dinar"
           },{
@@ -60,7 +60,7 @@
             "key":"Uganda",
             "val":"Ugandan shilling"
           } ],
-        "Asia": [{
+        "In-game": [{
             "key":"Afghanistan",
             "val":"Afghani"
           },{
@@ -88,7 +88,7 @@
             "key":"Thailand",
             "val":"Baht"
            } ],
-        "Europe":[{
+        "End game":[{
             "key":"Austria",
             "val":"Euro"
           },{
@@ -116,7 +116,7 @@
             "key":"Spain",
             "val":"Euro "
           } ],
-        "North America": [{
+        "Roles / Posts": [{
             "key":"Antigua and Barbuda",
             "val":"East Caribbean Dollar"
           }, {
@@ -162,7 +162,7 @@
             "key":"United States of America",
             "val":"United States Dollar"
           }],
-        "South America": [{
+        "Cheats / VAC": [{
             "key":"Argentina",
             "val":"Peso"
           }, {
@@ -205,7 +205,7 @@
             "key":"Venezuela",
             "val":"Bolívar fuerte"
           }],
-        "Oceania": [{
+        "Nades": [{
             "key":"Australia",
             "val":"Australian Dollar"
           }, {
@@ -224,7 +224,7 @@
             "key":"Cook Islands",
             "val":"Cook Islands Dollar"
           }],
-        "Antartica":[{
+        "How to blame each other":[{
             "key":"French Southern Territories",
             "val":"Euro"
           }, {
