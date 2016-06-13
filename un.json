@@ -175,61 +175,79 @@
             "key":"Dominican Republic",
             "val":"24-10-45"
           }],
-          "E-I": [{
-            "key":"Estonia",
-            "val":""
+          "E-F": [{
+            "key":"Ecuador",
+            "val":"21-12-45"
           },{
+            "key":"Egypt*",
+            "val":"24-10-45"
+          }, {
+            "key":"El Salvador",
+            "val":"24-10-45"
+          },{
+            "key":"Equatorial Guinea",
+            "val":"12-11-68"
+          }, {
+            "key":"Eritrea",
+            "val":"28-05-93"
+          },{
+            "key":"Estonia",
+            "val":"17-09-91"
+          },{
+            "key":"Ethiopia",
+            "val":"13-11-45"
+          }, {
+            "key":"Fiji",
+            "val":"13-10-70"
+          }, {
             "key":"Finland",
-            "val":""
+            "val":"14-12-55"
           }, {
             "key":"France",
-            "val":"1974"
-          },{
-            "key":"Germany",
-            "val":"1974"
-          }, {
-            "key":"Greece",
-            "val":""
-          },{
-            "key":"Hungary",
-            "val":""
-          },{
-            "key":"Iceland",
-            "val":""
-          }, {
-            "key":"Ireland",
-            "val":""
-          }, {
-            "key":"Italy",
-            "val":"1977"
+            "val":"24-10-45"
           }],
-          "E-I": [{
-            "key":"Estonia",
-            "val":""
+          "G-H": [{
+            "key":"Gabon",
+            "val":"20-09-60"
           },{
-            "key":"Finland",
-            "val":""
+            "key":"Gambia (Islamic Republic of the)",
+            "val":"21-09-65"
           }, {
-            "key":"France",
-            "val":"1974"
+            "key":"Georgia",
+            "val":"31-07-92"
           },{
-            "key":"Germany",
-            "val":"1974"
+            "key":"Germany*",
+            "val":"18-09-73"
           }, {
+            "key":"Ghana",
+            "val":"08-03-57"
+          },{
             "key":"Greece",
-            "val":""
+            "val":"25-10-45"
           },{
+            "key":"Grenada",
+            "val":"17-09-74"
+          }, {
+            "key":"Guatemala",
+            "val":"21-11-45"
+          }, {
+            "key":"Guinea",
+            "val":"12-12-58"
+          }, {
+            "key":"Guinea Bissau",
+            "val":"17-09-74"
+          }, {
+            "key":"Guyana",
+            "val":"20-09-66"
+          }, {
+            "key":"Haiti",
+            "val":"24-10-45"
+          }, {
+            "key":"Honduras",
+            "val":"17-12-45"
+          }, {
             "key":"Hungary",
-            "val":""
-          },{
-            "key":"Iceland",
-            "val":""
-          }, {
-            "key":"Ireland",
-            "val":""
-          }, {
-            "key":"Italy",
-            "val":"1977"
+            "val":"14-12-55"
           }],
           "E-I": [{
             "key":"Estonia",
