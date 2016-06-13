@@ -57,8 +57,53 @@
             "key":"Bahamas",
             "val":"18-08-73"
           },{
-            "key":"Denmark",
-            "val":""
+            "key":"Bahrain",
+            "val":"21-09-71"
+          },{
+            "key":"Bangladesh",
+            "val":"17-09-74"
+          },{
+            "key":"Barbados",
+            "val":"09-12-66"
+          },{
+            "key":"Belarus*",
+            "val":"24-10-45"
+          },{
+            "key":"Belgium",
+            "val":"27-12-45"
+          },{
+            "key":"Belize",
+            "val":"25-09-81"
+          },{
+            "key":"Benin",
+            "val":"20-09-60"
+          },{
+            "key":"Bhutan",
+            "val":"21-09-71"
+          },{
+            "key":"Bolivia (Plurinational State of)",
+            "val":"14-11-45"
+          },{
+            "key":"Bosnia and Herzegovina*",
+            "val":"22-05-92"
+          },{
+            "key":"Botswana",
+            "val":"17-10-66"
+          },{
+            "key":"Brazil",
+            "val":"24-10-45"
+          },{
+            "key":"Brunei Darussalam",
+            "val":"21-09-84"
+          },{
+            "key":"Bulgaria",
+            "val":"14-12-55"
+          },{
+            "key":"Burkina Faso",
+            "val":"20-09-60"
+          },{
+            "key":"Burundi",
+            "val":"18-09-62"
           }],
         "E-I": [{
             "key":"Estonia",
