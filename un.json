@@ -8,10 +8,16 @@
     },
     "template_type": "reference",
     "section_order": [
-        "A-D",
-        "E-I",
-        "J-P",
-        "Q-Z" 
+        "A-B",
+        "C-D",
+        "E-F",
+        "G-H",
+        "I-J",
+        "K-L",
+        "M-N",
+        "O-P",
+        "Q-R",
+        "S-T",
         ],
     "sections": {
     "A-D":[{
@@ -48,13 +54,97 @@
             "key":"Azerbaijan",
             "val":"02-03-92"
           }, {
-            "key":"Czech Republic",
-            "val":"1993"
+            "key":"Bahamas",
+            "val":"18-08-73"
           },{
             "key":"Denmark",
             "val":""
           }],
         "E-I": [{
+            "key":"Estonia",
+            "val":""
+          },{
+            "key":"Finland",
+            "val":""
+          }, {
+            "key":"France",
+            "val":"1974"
+          },{
+            "key":"Germany",
+            "val":"1974"
+          }, {
+            "key":"Greece",
+            "val":""
+          },{
+            "key":"Hungary",
+            "val":""
+          },{
+            "key":"Iceland",
+            "val":""
+          }, {
+            "key":"Ireland",
+            "val":""
+          }, {
+            "key":"Italy",
+            "val":"1977"
+          }],
+          "E-I": [{
+            "key":"Estonia",
+            "val":""
+          },{
+            "key":"Finland",
+            "val":""
+          }, {
+            "key":"France",
+            "val":"1974"
+          },{
+            "key":"Germany",
+            "val":"1974"
+          }, {
+            "key":"Greece",
+            "val":""
+          },{
+            "key":"Hungary",
+            "val":""
+          },{
+            "key":"Iceland",
+            "val":""
+          }, {
+            "key":"Ireland",
+            "val":""
+          }, {
+            "key":"Italy",
+            "val":"1977"
+          }],
+          "E-I": [{
+            "key":"Estonia",
+            "val":""
+          },{
+            "key":"Finland",
+            "val":""
+          }, {
+            "key":"France",
+            "val":"1974"
+          },{
+            "key":"Germany",
+            "val":"1974"
+          }, {
+            "key":"Greece",
+            "val":""
+          },{
+            "key":"Hungary",
+            "val":""
+          },{
+            "key":"Iceland",
+            "val":""
+          }, {
+            "key":"Ireland",
+            "val":""
+          }, {
+            "key":"Italy",
+            "val":"1977"
+          }],
+          "E-I": [{
             "key":"Estonia",
             "val":""
           },{
