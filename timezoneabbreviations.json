@@ -10,43 +10,136 @@
     "section_order": [
         "A",
         "B",
-        "A",
-        "B",
-        "A",
-        "B",
-        "A",
-        "B",
-        "A",
-        "B",
-        "A",
-        "B",
-        "A",
-        "B",
-        "A",
-        "B",
-        "A",
-        "B",
-        "A",
-        "B",
-        "A",
-        "B",
-        "A",
-        "B",
-        "A",
-        "B"
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "U",
+        "V",
+        "W",
+        "X",
+        "Y",
+        "Z"
         ],
     "sections": {
-    "At the start":[{
-           "key":"live",
-           "val":"match has started"
+    "A":[{
+           "key":"A",
+           "val":"Alpha Time Zone"
           },{
-           "key":"GL",
-           "val":"Good Luck"
+           "key":"ACDT",
+           "val":"Australian Central Daylight Time / Central Daylight Time (Daylight Saving Time)"
           },{
-            "key":"HF",
-           "val":"Have Fun"
-          } ],
-        "In-game": [{
+            "key":"ACST",
+            "val":"Australian Central Standard Time (Standard Time)"
+          },{
+            "key":"ACT",
+            "val":"Acre Time (Standard Time)"
+          } ,{
+            "key":"ACT",
+            "val":"Australian Central Time"
+          } ,{
+            "key":"ACWST",
+            "val":"Australian Central Western Standard Time (Standard Time)"
+          },{
+            "key":"ADT",
+            "val":"Arabia Daylight Time (Daylight Saving Time)"
+          },{
+            "key":"ADT",
+            "val":"Atlantic Daylight Time / Atlantic Daylight Saving Time (Daylight Saving Time)"
+          },{
+            "key":"AEDT",
+            "val":"Australian Eastern Daylight Time (Daylight Saving Time)"
+          },{
+            "key":"AEST",
+            "val":"Australian Eastern Standard Time / Eastern Standard Time (Standard Time)"
+          },{
+            "key":"AET",
+            "val":"Australian Eastern Time"
+          },{
+            "key":"AFT",
+            "val":"Afghanistan Time (Standard Time)"
+          },{
+            "key":"AKDT",
+            "val":"Alaska Daylight Time (Daylight Saving Time)"
+          },{
+            "key":"AKST",
+            "val":"Alaska Standard Time (Standard Time)"
+          },{
+            "key":"ALMT",
+            "val":"Alma-Ata Time (Standard Time)"
+          },{
+            "key":"AMST",
+            "val":"Amazon Summer Time (Daylight Saving Time)"
+          },{
+            "key":"AMST",
+            "val":"Armenia Summer Time (Daylight Saving Time)"
+          },{
+            "key":"AMT",
+            "val":"Amazon Time (Standard Time)"
+          },{
+            "key":"AMT",
+            "val":"Armenia Time (Standard Time)"
+          },{
+            "key":"ANAST",
+            "val":"Anadyr Summer Time (Daylight Saving Time)"
+          },{
+            "key":"ANAT",
+            "val":"Anadyr Time (Standard Time)"
+          },{
+            "key":"AQTT",
+            "val":"Aqtobe Time (Standard Time)"
+          },{
+            "key":"ART",
+            "val":"Argentina Time (Standard Time)"
+          },{
+            "key":"AST",
+            "val":"Arabia Standard Time (Standard Time)"
+          },{
+            "key":"AST",
+            "val":"Atlantic Standard Time / Atlantic Time (Standard Time)"
+          },{
+            "key":"AT",
+            "val":"Atlantic Time"
+          },{
+            "key":"AWDT",
+            "val":"Australian Western Daylight Time (Daylight Saving Time)"
+          },{
+            "key":"AWST",
+            "val":"Australian Western Standard Time / Western Standard Time (Standard Time)"
+          },{
+            "key":"AZOST",
+            "val":"Azores Summer Time (Daylight Saving Time)"
+          },{
+            "key":"AZOT",
+            "val":"Azores Time (Standard Time)"
+          },{
+            "key":"AZST",
+            "val":"Azerbaijan Summer Time (Daylight Saving Time)"
+          },{
+            "key":"AZT",
+            "val":"Azerbaijan Time (Standard Time)"
+          },{
+            "key":"AoE",
+            "val":"Anywhere on Earth (Standard Time)"
+          }  ],
+        "In-g,{
+            "key":"AST",
+            "val":"Arabia Standard Time (Standard Time)"
+          }ame": [{
             "key":"ECO",
             "val":"'saving round' players buy nothing to save money to the next round. (you can buy small pistols like P250 or some nades It depends how much money do you have)"
           },{
