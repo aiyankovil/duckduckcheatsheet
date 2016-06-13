@@ -152,147 +152,112 @@
             "val":"good half"
           } ],
         "End game":[{
-            "key":"Austria",
-            "val":"Euro"
+            "key":"bb",
+            "val":"bye bye"
           },{
-            "key":"Belgium",
-            "val":"Euro"
+            "key":"GG",
+            "val":"Good game"
           },{
-            "key":"France",
-            "val":"Euro CFP franc"
+            "key":"WP",
+            "val":"well played"
           },{
-            "key":"Germany",
-            "val":"Euro"
+            "key":"EZ",
+            "val":"easy"
           },{
-            "key":"Hungary",
-            "val":"Forint"
-          },{
-            "key":"Ireland",
-            "val":"Euro"
-          },{
-            "key":"Russia",
-            "val":"Russian ruble"
-          },{
-            "key":"Switzerland",
-            "val":"Swiss franc"
-          },{
-            "key":"Spain",
-            "val":"Euro "
-          } ],
+            "key":"EZPZ",
+            "val":"easy peasy"
+          }],
         "Roles / Posts": [{
-            "key":"Antigua and Barbuda",
-            "val":"East Caribbean Dollar"
+            "key":"IGL",
+            "val":"in-game leader (If he low on kills dont blame him his focus is on the strategy)"
           }, {
-            "key":"Bahamas",
-            "val":"Bahamian Dollar"
+            "key":"Entry Fragger",
+            "val":"Who trie to pick the first enemy to gain advantage. (If he died in the first 20 sec dont blame him, this post requires Balls Of Steel)"
           }, {
-            "key":"Barbados",
-            "val":"Barbadian Dollar"
+            "key":"AWPer",
+            "val":"Who use the sniper rifle to get picks."
           }, {
-            "key":"Belize",
-            "val":"Belize Dollar"
+            "key":"Lurk",
+            "val":"The sneaky guy usually try to sneak behind the enemy alone."
           }, {
-            "key":"Bermuda",
-            "val":"Bermudian Dollar"
-          }, {
-            "key":"Canada",
-            "val":"Canadian Dollar"
-          }, {
-            "key":"Costa Rica",
-            "val":"Costa Rican colon"
-          }, {
-            "key":"Cuba",
-            "val":"Cuban Peso"
-          }, {
-            "key":"Dominican Republic",
-            "val":"Dominican Peso"
-          }, {
-            "key":"El Salvador",
-            "val":"United States Dollar"
-          }, {
-            "key":"Guatemala",
-            "val":"Guatemalan quetzal"
-          }, {
-            "key":"Jamaica",
-            "val":"Jamaican Dollar"
-          }, {
-            "key":"Mexico",
-            "val":"Mexican Peso"
-          }, {
-            "key":"Panama",
-            "val":"United States Dollar"
-          }, {
-            "key":"United States of America",
-            "val":"United States Dollar"
+            "key":"Support",
+            "val":"Trying to help to defend a site or cut a rush, retake a site. Using nates watch our back or trade the kill."
           }],
         "Cheats / VAC": [{
-            "key":"Argentina",
-            "val":"Peso"
+            "key":"WH",
+            "val":"wall hack."
           }, {
-            "key":"Bolivia",
-            "val":"Boliviano"
+            "key":"ESP",
+            "val":"Track through the wall"
           }, {
-            "key":"Brazil",
-            "val":"Real"
+            "key":"Aim",
+            "val":"cheats helps to hit the target."
           }, {
-            "key":"Chile",
-            "val":"Peso"
+            "key":"Trigger",
+            "val":"Auto shoot when the crosshair is on the enemy."
           }, {
-            "key":"Colombia",
-            "val":"Peso"
+            "key":"Radar",
+            "val":"You can see the enemy always on your radar."
           }, {
-            "key":"Ecuador",
-            "val":"United States Dollar"
+            "key":"Spin Bot",
+            "val":"Playr watching the ground then BOOM headshoot."
           }, {
-            "key":"Falkland Islands",
-            "val":"Falklands Island Pound"
+            "key":"No recoil",
+            "val":"No weapon recoil or spray."
           }, {
-            "key":"French Guiana",
-            "val":"Euro"
+            "key":"Speedhack",
+            "val":"Move faster"
           }, {
-            "key":"Guyana",
-            "val":"Guyanese Dollar"
+            "key":"Bypass",
+            "val":"Anti overwatch"
           }, {
-            "key":"Paraguay",
-            "val":"Guarani"
+            "key":"DDOS",
+            "val":"Overload the enemy's network."
           }, {
-            "key":"Peru",
-            "val":"Nuevo Sol"
+            "key":"VACation",
+            "val":"VAC ban"
           }, {
-            "key":"Suriname",
-            "val":"Surinamese Dollar"
-          }, {
-            "key":"Uruguay",
-            "val":"Uruguayan Peso"
-          }, {
-            "key":"Venezuela",
-            "val":"Bolívar fuerte"
+            "key":"OW ban",
+            "val":"Overwatch ban"
           }],
         "Nades": [{
-            "key":"Australia",
-            "val":"Australian Dollar"
+            "key":"Molly",
+            "val":"Incendiary / Molotov"
           }, {
-            "key":"Fiji",
-            "val":"Fijian Dollar"
+            "key":"Decoy",
+            "val":"-"
           }, {
-            "key":"New Zealand",
-            "val":"New Zealand Dollar"
+            "key":"Flash",
+            "val":"Flashbang"
           }, {
-            "key":"Vanuatu",
-            "val":"Vanuatu Vatu"
+            "key":"HEG/Nade",
+            "val":"high explosive grenade"
           }, {
-            "key":"American Samoa",
-            "val":"United States Dollar"
-          }, {
-            "key":"Cook Islands",
-            "val":"Cook Islands Dollar"
+            "key":"Smoke",
+            "val":"Smoke granade"
           }],
         "How to blame each other":[{
-            "key":"French Southern Territories",
-            "val":"Euro"
+            "key":"Rage",
+            "val":"beeing aggressive"
           }, {
-            "key":"South Georgia and the South Sandwich Islands",
-            "val":"Pound Sterling"
-          }]
+            "key":"Toxic player",
+            "val":"Who is annoying and depressing."
+          }, {
+            "key":"LOW",
+            "val":"low skilled"
+          }, {
+            "key":"Newb",
+            "val":"new player"
+          }, {
+            "key":"Noob",
+            "val":"bad player"
+          }, {
+            "key":"L2p",
+            "val":"Learn to play"
+          }, {
+            "key":"Silver",
+            "val":"You know."
+          }
+          ]
     }
 }
