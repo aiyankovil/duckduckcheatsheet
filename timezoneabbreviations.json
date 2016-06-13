@@ -1,20 +1,39 @@
 {
-    "id": "csgo_abbreviations_cheat_sheet",
-    "name": "CS-GO Abbreviations",
-    "description": "CS-GO Abbreviations",
+    "id": "timezone_abbreviations_cheat_sheet",
+    "name": "Time Zone Abbreviations",
+    "description": "Time Zone Abbreviations",
     "metadata": {
-        "sourceName": "steamcommunity",
-        "sourceUrl": "http://steamcommunity.com/sharedfiles/filedetails/?id=499441498"
+        "sourceName": "Time and Date",
+        "sourceUrl": "http://www.timeanddate.com/time/zones/"
     },
     "template_type": "reference",
     "section_order": [
-        "At the start",
-        "In-game",
-        "End game",
-        "Roles / Posts",
-        "Cheats / VAC",
-        "Nades",
-        "How to blame each other"
+        "A",
+        "B",
+        "A",
+        "B",
+        "A",
+        "B",
+        "A",
+        "B",
+        "A",
+        "B",
+        "A",
+        "B",
+        "A",
+        "B",
+        "A",
+        "B",
+        "A",
+        "B",
+        "A",
+        "B",
+        "A",
+        "B",
+        "A",
+        "B",
+        "A",
+        "B"
         ],
     "sections": {
     "At the start":[{
