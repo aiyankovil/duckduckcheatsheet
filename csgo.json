@@ -116,28 +116,40 @@
             "val":"First important kill of the round."
           },{
             "key":"rotate",
-            "val":"A player leave "A" to go "B" because of the enemy."
+            "val":"A player leave 'A' to go 'B' because of the enemy."
           },{
             "key":"Prefire",
             "val":"shooting where you expect someone to be before actually seeing them sometimes through the wall."
           },{
-            "key":"Prefire",
-            "val":"shooting where you expect someone to be before actually seeing them sometimes through the wall."
+            "key":"Wall bang",
+            "val":"If you kill or hit an enemy through the wall."
           },{
-            "key":"Prefire",
-            "val":"shooting where you expect someone to be before actually seeing them sometimes through the wall."
+            "key":"Ofc",
+            "val":"Of course"
           },{
-            "key":"Prefire",
-            "val":"shooting where you expect someone to be before actually seeing them sometimes through the wall."
+            "key":"Derank",
+            "val":"Lose rank"
           },{
-            "key":"Prefire",
-            "val":"shooting where you expect someone to be before actually seeing them sometimes through the wall."
+            "key":"Rank up",
+            "val":"Gain rank"
           },{
-            "key":"Prefire",
-            "val":"shooting where you expect someone to be before actually seeing them sometimes through the wall."
+            "key":"AFK",
+            "val":"away from keyboard (not playing right now)"
           },{
-            "key":"Prefire",
-            "val":"shooting where you expect someone to be before actually seeing them sometimes through the wall."
+            "key":"Trade kill",
+            "val":"Your player got killd and you kill his killer."
+          },{
+            "key":"M8",
+            "val":"Mate"
+          },{
+            "key":"Ace",
+            "val":"5 kill"
+          },{
+            "key":"4K",
+            "val":"4 kill"
+          },{
+            "key":"GH",
+            "val":"good half"
           } ],
         "End game":[{
             "key":"Austria",
