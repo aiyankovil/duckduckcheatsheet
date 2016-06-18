@@ -18,6 +18,7 @@
         "O-P",
         "Q-R",
         "S-T",
+        "U-Z",
         ],
     "sections": {
     "A-D":[{
@@ -249,111 +250,268 @@
             "key":"Hungary",
             "val":"14-12-55"
           }],
-          "E-I": [{
-            "key":"Estonia",
-            "val":""
-          },{
-            "key":"Finland",
-            "val":""
-          }, {
-            "key":"France",
-            "val":"1974"
-          },{
-            "key":"Germany",
-            "val":"1974"
-          }, {
-            "key":"Greece",
-            "val":""
-          },{
-            "key":"Hungary",
-            "val":""
-          },{
+          "I-J": [{
             "key":"Iceland",
-            "val":""
+            "val":"19-11-46"
+          },{
+            "key":"India",
+            "val":"30-10-45"
           }, {
+            "key":"Indonesia*",
+            "val":"28-09-50"
+          },{
+            "key":"Iran (Islamic Republic of)",
+            "val":"24-10-45"
+          }, {
+            "key":"Iraq",
+            "val":"21-12-45"
+          },{
             "key":"Ireland",
-            "val":""
+            "val":"14-12-55"
+          },{
+            "key":"Israel",
+            "val":"11-05-49"
           }, {
             "key":"Italy",
-            "val":"1977"
-          }],
-          "J-P": [{
+            "val":"14-12-55"
+          }, {
+            "key":"Jamaica",
+            "val":"18-09-62"
+          }, {
             "key":"Japan",
-            "val":"1974"
-          },{
+            "val":"18-12-56"
+          }, {
+            "key":"Jordan",
+            "val":"14-12-55"
+          }],
+          "K-L": [{
             "key":"Kazakhstan",
-            "val":"1992"
+            "val":"02-03-92"
           },{
+            "key":"Kenya",
+            "val":"16-12-63"
+          },{
+            "key":"Kiribati",
+            "val":"14-09-99"
+          }, {
+            "key":"Kuwait",
+            "val":"14-05-63"
+          }, {
+            "key":"Kyrgyzstan",
+            "val":"02-03-92"
+          },{
+            "key":"Lao People’s Democratic Republic",
+            "val":"14-12-55"
+          }, {
             "key":"Latvia",
-            "val":"1992"
+            "val":"17-09-91"
+          }, {
+            "key":"Lebanon",
+            "val":"24-10-45"
+          },{
+            "key":"Lesotho",
+            "val":"17-10-66"
+          }, {
+            "key":"Liberia",
+            "val":"02-11-45"
+          }, {
+            "key":"Libya",
+            "val":"14-12-55"
+          }, {
+            "key":"Liechtenstein",
+            "val":"18-09-90"
           }, {
             "key":"Lithuania",
-            "val":"1992"
+            "val":"17-09-91"
           }, {
             "key":"Luxembourg",
-            "val":""
+            "val":"24-10-45"
+          }],
+          "M-N": [{
+            "key":"Madagascar",
+            "val":"20-09-60"
+          }, {
+            "key":"Malawi",
+            "val":"01-12-64"
+          }, {
+            "key":"Malaysia*",
+            "val":"17-09-57"
+          }, {
+            "key":"Maldives",
+            "val":"21-09-65"
+          }, {
+            "key":"Mali",
+            "val":"28-09-60"
+          }, {
+            "key":"Malta",
+            "val":"01-12-64"
+          }, {
+            "key":"Marshall Islands",
+            "val":"17-09-91"
+          }, {
+            "key":"Mauritania",
+            "val":"27-10-61"
+          }, {
+            "key":"Mauritius",
+            "val":"24-04-68"
           },{
-            "key":" Malta",
-            "val":""
-          }, {
             "key":"Mexico",
-            "val":""
-          }, {
+            "val":"07-11-45"
+          },{
+            "key":"Micronesia (Federated States of)",
+            "val":"17-09-91"
+          },{
+            "key":"Monaco",
+            "val":"28-05-93"
+          },{
+            "key":"Mongolia",
+            "val":"27-10-61"
+          },{
+            "key":"Montenegro*",
+            "val":"28-06-06"
+          },{
+            "key":"Morocco",
+            "val":"12-11-56"
+          },{
+            "key":"Mozambique",
+            "val":"16-09-75"
+          },{
+            "key":"Myanmar",
+            "val":"19-04-48"
+          },{
+            "key":"Namibia",
+            "val":"23-04-90"
+          },{
+            "key":"Nauru",
+            "val":"14-09-99"
+          },{
+            "key":"Nepal",
+            "val":"14-12-55"
+          },{
             "key":"Netherlands",
-            "val":"1977"
+            "val":"10-12-45"
           },{
             "key":"New Zealand",
-            "val":""
-          }, {
+            "val":"24-10-45"
+          },{
+            "key":"Nicaragua",
+            "val":"24-10-45"
+          },{
+            "key":"Niger",
+            "val":"20-09-60"
+          },{
+            "key":"Nigeria",
+            "val":"07-10-60"
+          },{
             "key":"Norway",
-            "val":""
+            "val":"27-11-45"
+          }
+          ],
+          "O-P": [{
+            "key":"Oman",
+            "val":"07-10-71"
+          }, {
+            "key":"Pakistan",
+            "val":"30-09-47"
+          }, {
+            "key":"Palau",
+            "val":"15-12-94"
+          }, {
+            "key":"Panama",
+            "val":"13-11-45"
+          }, {
+            "key":"Papua New Guinea",
+            "val":"10-10-75"
+          }, {
+            "key":"Paraguay",
+            "val":"24-10-45"
+          }, {
+            "key":"Peru",
+            "val":"31-10-45"
+          }, {
+            "key":"Philippines",
+            "val":"24-10-45"
           }, {
             "key":"Poland",
-            "val":"1977"
-          }, {
+            "val":"24-10-45"
+          },{
             "key":"Portugal",
-            "val":""
-          }],
-          "R-U": [{
+            "val":"14-12-55"
+          }
+          ],
+          "Q-R": [{
+            "key":"Qatar",
+            "val":"21-09-71"
+          }, {
+            "key":"Republic of Korea",
+            "val":"17-09-91"
+          }, {
+            "key":"Republic of Moldova",
+            "val":"02-03-92"
+          }, {
             "key":"Romania",
-            "val":""
+            "val":"14-12-55"
           }, {
-            "key":"Russia",
-            "val":"1974"
+            "key":"Russian Federation*",
+            "val":"24-10-45"
           }, {
-            "key":"Serbia",
-            "val":""
+            "key":"Rwanda",
+            "val":"18-09-62"
+          }
+          ],
+          "S-T": [{
+            "key":"Madagascar",
+            "val":"20-09-60"
           }, {
-            "key":"Slovakia",
-            "val":"1993"
+            "key":"Malawi",
+            "val":"01-12-64"
           }, {
-            "key":"Slovenia",
-            "val":""
+            "key":"Malaysia*",
+            "val":"17-09-57"
           }, {
-            "key":"South Africa",
-            "val":""
+            "key":"Maldives",
+            "val":"21-09-65"
           }, {
-            "key":"South Korea",
-            "val":""
+            "key":"Mali",
+            "val":"28-09-60"
           }, {
-            "key":"Spain",
-            "val":""
+            "key":"Malta",
+            "val":"01-12-64"
           }, {
-            "key":"Switzerland",
-            "val":"1977"
+            "key":"Marshall Islands",
+            "val":"17-09-91"
+          }, {
+            "key":"Mauritania",
+            "val":"27-10-61"
+          }, {
+            "key":"Mauritius",
+            "val":"24-04-68"
           },{
-            "key":"Turkey",
-            "val":""
+            "key":"Mexico",
+            "val":"07-11-45"
           },{
-            "key":"Ukraine",
-            "val":"1992"
+            "key":"Micronesia (Federated States of)",
+            "val":"17-09-91"
           },{
-            "key":"United Kingdom",
-            "val":"1974"
+            "key":"Monaco",
+            "val":"28-05-93"
           },{
-            "key":"United States",
-            "val":"1974"
+            "key":"Mongolia",
+            "val":"27-10-61"
+          },{
+            "key":"Montenegro*",
+            "val":"28-06-06"
+          },{
+            "key":"Morocco",
+            "val":"12-11-56"
+          },{
+            "key":"Mozambique",
+            "val":"16-09-75"
+          },{
+            "key":"Myanmar",
+            "val":"19-04-48"
           }
           ]
+          
     }
 }
